@@ -5,28 +5,28 @@ export interface Template {
 };
 const svgdoodles: Template = {
   url: "https://www.svgdoodles.com/",
-  description: " A free collection of 208 super duper SVG Doodles to spice up your online and offline designs!",
-  title: "SVG Doodles"
+  description: "Lenguaje de programación muy utilizado para AI",
+  title: "PYTHON"
 };
 const svggradients: Template = {
   url: "https://www.svggradients.com/",
-  description: " A free collection of SVG Mesh gradients to use in your design tool or HTML!",
-  title: "SVG Gradients"
+  description: "Libreria de python para AI ",
+  title: "X TRANSFORMRES"
 };
 const quicksetup: Template = {
   url: "https://www.figma.com/community/plugin/1074647052897925336",
-  description: " This amazing plugin lets you create empty pages and dividers, no matter what subscription.",
-  title: "Quick Setup"
+  description: " Libreria de python para AI",
+  title: "PYTHORCH"
 };
 const vscodethemes: Template = {
   url: "https://marketplace.visualstudio.com/publishers/wicked-labs",
-  description: " A collection of 7 VS Code themes",
-  title: "VS Code Themes"
+  description: "Model opensource para hacer imagenes con AI ",
+  title: "STABLEDIFFUSION"
 };
 const flabbergasted: Template = {
   url: "https://marketplace.visualstudio.com/publishers/wicked-labs",
-  description: "My newsletter about tech news and articles, tools and tips for UI Designers & Developers.",
-  title: "Flabbergasted"
+  description: "Entorno de ejecuón de codigo  de python",
+  title: "G-COLAB"
 };
 export const byName = {
   svgdoodles,
